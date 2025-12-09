@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SwatiJumde
-- 👀 I’m interested in Data Science/Data Analyst opportunity
-- 🌱 I’m currently learning skills for Data Science Technologies 
+- 👀 I’m interested in Data Science opportunity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> linkedin.com/in/swati-jumde/
 
