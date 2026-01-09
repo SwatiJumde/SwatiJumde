@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SwatiJumde
 - 👀 I’m interested in Data Science opportunity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> linkedin.com/in/swati-jumde/
+- 📫 How to reach me -> swatijumde68@gmail.com
 
 <!---
 SwatiJumde/SwatiJumde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
