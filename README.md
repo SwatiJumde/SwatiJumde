@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SwatiJumde
-- 👀 I’m interested in Data Science opportunity
 - 📫 How to reach me -> swatijumde68@gmail.com
 
 <!---
